@@ -1,3 +1,5 @@
+![image](https://github.com/priyaguntupalli5/hotel-booking/assets/97687268/2f7cd539-ac41-4f70-9c7f-d235f599fd37)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
